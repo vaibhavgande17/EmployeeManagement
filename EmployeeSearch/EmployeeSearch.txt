@@ -1,0 +1,5 @@
+Employee Search Module
+
+1. Search employee by ID
+2. Search employee by name
+3. Display matching employees

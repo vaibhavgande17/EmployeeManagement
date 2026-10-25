@@ -1,0 +1,7 @@
+Employee Delete Module
+
+1. Validate that employee ID is a positive number
+2. Display an error message if employee ID is invalid
+3. Ask for confirmation before deleting the employee
+4. Delete employee by ID
+5. Display deletion success message

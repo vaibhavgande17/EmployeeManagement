@@ -1,0 +1,5 @@
+Employee Registration Module
+
+1. Enter employee name
+2. Enter employee email
+3. Save employee details

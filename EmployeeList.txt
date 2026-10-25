@@ -1,0 +1,5 @@
+Employee List Module
+
+1. Display all employees
+2. Search employee by ID
+3. View employee details

@@ -1,0 +1,5 @@
+Employee Delete Module
+
+1. Delete employee by ID
+2. Ask for confirmation before deletion
+3. Display deletion success message
